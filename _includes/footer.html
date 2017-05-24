@@ -1,24 +1,19 @@
   <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} 2014</span>
+                <div class="col-md-4 text-left">
+                    <span class="copyright">Copyright &copy; {{ site.title }} 2016</span>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 text-center">
                     <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        {% for network in site.data.social %}
+                        <li><a href="{{ network.url }}" target="_blank"><i class="{{ network.title }}"></i></a>
                         </li>
                         {% endfor %}
                     </ul>
                 </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
-                        </li>
-                        <li><a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
+                <div class="col-md-4 text-right">
+                  <a href="http://ldeo.columbia.edu"><img src="img/LamontLogo_72dpi.jpg"></a>
                 </div>
             </div>
         </div>

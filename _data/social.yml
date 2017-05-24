@@ -1,0 +1,11 @@
+- url: "mailto:dporter@ldeo.columbia.edu"
+  title: "fa fa-envelope"
+
+- url: "https://scholar.google.com/citations?user=oBBiBsMAAAAJ&hl=en"
+  title: "ai ai-google-scholar-square"
+
+- url: "http://twitter.com/porterdf"
+  title: "fa fa-twitter"
+
+- url: "http://github.com/porterdf"
+  title: "fa fa-github"
