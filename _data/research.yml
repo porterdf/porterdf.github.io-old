@@ -1,5 +1,5 @@
 - name: Ice-Ocean Interactions
-  description: ""
+  description: "The Greenland and Antarctic Ice Sheets are losing mass. In Antarctica, ice shelves are thinning, mostly from warm deep water circulating under the floating pieces of ice and melting them from below.  Ice shelves acts as buttresses to the inland ice, holding back several meters of sea level rise.  In Greenland, marine-terminating glaciers are thinning and retreating more than their land-terminating neighbors, implying the ocean are primary drivers of change there as well. For both regions, satellite observations cannot adequately capture the processes important to ice sheet health since the heat responsible for their melt is deep within the ocean.  This means that a combination of in situ measurements and models are necessary to understand the ice-ocean system, all to improve projections of climate change and sea level rise."
   imgSrc: "img/research/IMG_20170407_081227_copy.jpg"
   
 - name: Community Partnerships in Kullorsuaq, Greenland
@@ -7,13 +7,22 @@
   imgSrc: "img/research/KHQ.png"
     
 - name: Airborne Gravity Measurements for Bathymetry
-  description: "While we can measure topography under cold grounded ice with ground or airborne ice-penetrating radar, bathymetry under floating ice requires special techniques. By measuring changes in relative gravity and making some assumption of densities we can model bathymetry under ice shelf and sea ice covered regions of the world.  We do this from airborne platforms to increase the coverage area."
+  description: "While we can measure topography under cold grounded ice with ground or airborne ice-penetrating radar, bathymetry under floating ice requires special techniques. By measuring changes in relative gravity and making some assumption of densities we can model bathymetry under ice shelf and sea ice covered regions of the world.  We do this from airborne platforms to increase the coverage area.
+  
+I have worked with three different platforms. The Zero-Length Spring (ZLS) system, owned by GNS Science, New Zealand, is a traditional marine meter retrofitted for airborne work by Fabio Caratori-Tontini. A 2-axis stabilized feedback meter from DGS in Colorado is another one of our meters featured in the picture to the left.  Finally, we are using the iMAR IMU and DGU to recover gravity on draped and turbulent flights.  Columbia University - LDEO operate the gravimeters and magentometers for the NASA Operation IceBridge campaigns, and all three meter have flown as part of the NSF-funded ROSETTA-ICE project currently underway"
   imgSrc: "img/research/IMG_20170324_102559_copy.jpg"
   
 - name: Autonomous Floats in Antarctica
-  description: "Autonomous floats, deployed in the Antartica from LC-130 Hercules aircraft with assistance of the NY Air National Guard, are taking continuous measurements of the Surface Mixed Layer in the Ross Sea."
+  description: "Autonomous floats, deployed in the Antartica from LC-130 Hercules aircraft with assistance of the NY Air National Guard, are taking continuous measurements of the Surface Mixed Layer in the Ross Sea. ALAMO floats (Air Launched Autonomous MicroOberserver) measure three critical properties of the ocean: temperature, salinity, and pressure. They do this while slowly sinking to the bottom of the ocean and then rising back to the surface. When they are at the surface, they place a phone call via Iridium satellites and literally email their data back to us.
+
+ALAMO floats are a fairly new technology which has been used mostly in warm subtropical waters to date. A major complication in polar waters is the possible presence of sea ice. The ALAMO floats have a sea-ice-avoidance algorithm that detects whether there is likely to be sea ice as they rise upward, and to not surface if sea ice is likely to be present. The sensors and communications electronics are on top of the float, and we don’t want it to get damaged by running into sea ice from below.
+
+The floats are deployed from the air, which makes it possible to go places that ships can’t go. A perfect example of such a location is the waters just north of the Ross Ice Shelf. In this region, the sea ice melts out near the ice shelf in late November while there is still lots of ice to the north, keeping ships away. An icebreaker, the Nathaniel B. Palmer, is the first ship scheduled to visit this region in late January. By deploying the ALAMO floats by airplane, we can make ocean measurements 6-8 weeks sooner than we could make them from a ship. These springtime measurements will contribute to our understand of the seasonal cycle of the sea ice in this region."
+
   imgSrc: "img/research/20161003_104502_copy.jpg"
 
 - name: Atmospheric Response to Sea Ice Loss
-  description:
+  description: "Warming of the Arctic is elevated compared to the global mean. This 'Arctic Amplification' is due in part to the albedo-temperature feedback.  As snow and sea ice, very highly reflective materials, melt and reveal darker surfaces beneath, the land and ocean abosrb more solar radiation.  This acts to warm the surface, thereby melting more snow and ice. THis is a vicious cycle.
+  
+My research asks the question: 'so if sea ice declining in the Arctic, what impacts does this warmer atmosphere have on the wider climate system?  Does it change the surface mass balance of Greenland?  Does it change mid-latitude weather systems, as proposed by some scientists?'  Through a
   imgSrc: "img/research/IMAG1439_copy.jpg"
