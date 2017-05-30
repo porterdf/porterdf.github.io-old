@@ -2,7 +2,7 @@
 title: New York Times VR 
 subtitle: ROSETTA-Ice in the NYT
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2017-04-5
 img: ../../img/posts/IMAG2420_copy.jpg
 thumbnail: ../../img/posts/IMAG2420_copy_thumbnail.jpg
