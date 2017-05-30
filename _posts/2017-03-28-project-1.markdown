@@ -1,0 +1,15 @@
+---
+title: Goodbye Thule!
+subtitle: It was real
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: IMAG2551_copy.jpg
+thumbnail: IMAG2551_copy.jpg
+alt: image-alt
+project-date: March 2017
+client: Start Bootstrap
+category: News
+description: We were in Thule!
+
+---
